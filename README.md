@@ -2,4 +2,4 @@
 a global strategy to change the socio-economic paradigm 
 
 
-![image]()
+![image](abundance_protocol.png)
